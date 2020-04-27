@@ -5,9 +5,7 @@
 
 ## Mobile Web Development 
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
-- [PowerApps](https://powerapps.microsoft.com/)
-- [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork)
-- [AppSheet](https://www.appsheet.com/)
+- [PowerApps](https://powerapps.microsoft.com/) / [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork) / [AppSheet](https://www.appsheet.com/)
 
 ## FinTech
 - [Claim Process Automation – an Enterprise Insurance Story](https://youtu.be/dT0INU-fmI8) : COGITO
