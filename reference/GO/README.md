@@ -2,5 +2,4 @@
 
 ## GitHub Repository
 
-GO course on Udemy.com
-https://github.com/StephenGrider/GoCasts
+- [GO course on Udemy.com](https://github.com/StephenGrider/GoCasts)
