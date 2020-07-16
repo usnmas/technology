@@ -7,6 +7,7 @@
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
 - [PowerApps](https://powerapps.microsoft.com/) / [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork) / [AppSheet](https://www.appsheet.com/)
 - [서울택시 QR 간편결제 도입](https://newsis.com/view/?id=NISX20181023_0000450598&cID=10201&pID=10200) : Static / Dynamic QR Code
+- [식권대장으로 체험한 '직장인 N끼 라이프' (202007)](https://zdnet.co.kr/view/?no=20200714175743) : 식권대장 앱. 포인트 사용. 배달업체 연계
 
 ## FinTech
 - [Claim Process Automation – an Enterprise Insurance Story](https://youtu.be/dT0INU-fmI8) : COGITO
