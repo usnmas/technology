@@ -3,6 +3,10 @@
 ## Use case & Sample code for development
 - [프랑스 외출 사유서](https://media.interieur.gouv.fr/deplacement-covid-19/) / [Application Source github](https://github.com/LAB-MI/deplacement-covid-19) : COVID-19 관련 외출확인서 QR Code 생성 (대면 접촉 대화 최소화 & 문서 작성 인쇄 방지) 
 
+## IoT (Wireless Communication)
+- [UWB (Ultra Wide Band)란 무엇인가](https://blog.naver.com/suresofttech/222020100797)
+- [초광대역(UWB)기술 : BMW의 디지털 자동차키 with 애플 iPhone (2020)](https://blog.naver.com/kyoung1155/222025404704) 휴대폰 분실시 Cloud 저장 data 활용
+
 ## Mobile Web & QR Code
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
 - [PowerApps](https://powerapps.microsoft.com/) / [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork) / [AppSheet](https://www.appsheet.com/)
