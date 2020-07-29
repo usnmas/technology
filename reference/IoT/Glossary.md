@@ -17,4 +17,10 @@ In radio, MIMO, is a method for multiplying the capacity of a radio link using m
 
 Beamforming or spatial filtering is a signal processing technique used in sensor arrays for directional signal transmission or reception. This is achieved by combining elements in an antenna array in such a way that signals at particular angles experience constructive interference while others experience destructive interference. Beamforming can be used at both the transmitting and receiving ends in order to achieve spatial selectivity. The improvement compared with omnidirectional reception/transmission is known as the directivity of the array. To change the directionality of the array when transmitting, a beamformer controls the phase and relative amplitude of the signal at each transmitter, in order to create a pattern of constructive and destructive interference in the wavefront. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Beamforming) / [[additional ref. 반드시 필요한 5G 핵심 기술, 빔포밍]](https://blog.naver.com/sundooedu/221692044480)    
 
+## signal-to-noise Ratio (SNR)  
+
+Signal-to-noise ratio is a measure used in science and engineering that compares the level of a desired signal to the level of background noise. SNR is defined as the ratio of signal power to the noise power, often expressed in decibels. A ratio higher than 1:1 (greater than 0 dB) indicates more signal than noise. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)   
+
+
+
 
