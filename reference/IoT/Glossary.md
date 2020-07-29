@@ -9,3 +9,9 @@ IPv6의 한 패킷 크기는 1,280바이트이며 헤더의 크기가 최소한 
 
 **Antenna is a part of the radar**. Antenna is the physical interface of any electronic device to the electromagnetic waves. These waves carry information such as: FM radio content, satellite TV content etc. A radar has such an antenna which first emits electromagnetic waves to the environment and senses reflections. The reflections tell the radar about the reflecting objects such as: enemy aircrafts, ships or cars on road. Along with the antenna, a radar also has circuitry for processing and display which helps a computer or human operator interpret and react to the reflecting object. [[source: Quora Q&A]](https://www.quora.com/What-is-the-difference-between-radar-and-antenna)  
 
+## MIMO (Multi-Input and Multi-Output)
+
+In radio, MIMO, is a method for multiplying the capacity of a radio link using multiple transmission and receiving antennas to exploit multipath propagation. MIMO has become an essential element of wireless communication standards including IEEE 802.11n (Wi-Fi), IEEE 802.11ac (Wi-Fi), HSPA+ (3G), WiMAX, and Long Term Evolution (4G LTE). MIMO / MISO / SIMO / SISO. [[source: Wikipedia]](https://en.wikipedia.org/wiki/MIMO)  
+
+
+
