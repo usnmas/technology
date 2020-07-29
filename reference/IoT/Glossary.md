@@ -13,5 +13,8 @@ IPv6의 한 패킷 크기는 1,280바이트이며 헤더의 크기가 최소한 
 
 In radio, MIMO, is a method for multiplying the capacity of a radio link using multiple transmission and receiving antennas to exploit multipath propagation. MIMO has become an essential element of wireless communication standards including IEEE 802.11n (Wi-Fi), IEEE 802.11ac (Wi-Fi), HSPA+ (3G), WiMAX, and Long Term Evolution (4G LTE). MIMO / MISO / SIMO / SISO. [[source: Wikipedia]](https://en.wikipedia.org/wiki/MIMO)  
 
+## Beamforming  
+
+Beamforming or spatial filtering is a signal processing technique used in sensor arrays for directional signal transmission or reception. This is achieved by combining elements in an antenna array in such a way that signals at particular angles experience constructive interference while others experience destructive interference. Beamforming can be used at both the transmitting and receiving ends in order to achieve spatial selectivity. The improvement compared with omnidirectional reception/transmission is known as the directivity of the array. To change the directionality of the array when transmitting, a beamformer controls the phase and relative amplitude of the signal at each transmitter, in order to create a pattern of constructive and destructive interference in the wavefront. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Beamforming) [additional ref.](https://blog.naver.com/sundooedu/221692044480)    
 
 
