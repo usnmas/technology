@@ -21,9 +21,9 @@ Beamforming or spatial filtering is a signal processing technique used in sensor
 
 Signal-to-noise ratio is a measure used in science and engineering that compares the level of a desired signal to the level of background noise. SNR is defined as the ratio of signal power to the noise power, often expressed in decibels. A ratio higher than 1:1 (greater than 0 dB) indicates more signal than noise. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)   
 
-## carrier wave (반송파)  
+## carrier wave 
 
-In telecommunications, a carrier wave, carrier signal, or just carrier, is a waveform that is modulated with an information bearing signal for the purpose of conveying information. This carrier wave usually has a much higher frequency than the input signal does. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Carrier_wave) / [[additional ref. AM FM PM PCM]](https://terms.naver.com/entry.nhn?docId=4390144&cid=60217&categoryId=60217)  
+In telecommunications, a carrier wave, carrier signal, or just carrier, is a waveform that is modulated with an information bearing signal for the purpose of conveying information. This carrier wave usually has a much higher frequency than the input signal does. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Carrier_wave) / [[additional ref. 반송파 AM FM PM PCM]](https://terms.naver.com/entry.nhn?docId=4390144&cid=60217&categoryId=60217)  
 
 
 
