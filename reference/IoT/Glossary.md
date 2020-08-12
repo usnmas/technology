@@ -27,7 +27,7 @@ In telecommunications, a carrier wave, carrier signal, or just carrier, is a wav
 
 ## speed of light 
 
-*c = 3 X 10_8 m/s*  
+*c = 3 X 10\_8 m/s*  
 
 
 
