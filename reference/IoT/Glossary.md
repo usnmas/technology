@@ -25,5 +25,10 @@ Signal-to-noise ratio is a measure used in science and engineering that compares
 
 In telecommunications, a carrier wave, carrier signal, or just carrier, is a waveform that is modulated with an information bearing signal for the purpose of conveying information. This carrier wave usually has a much higher frequency than the input signal does. [[source: Wikipedia]](https://en.wikipedia.org/wiki/Carrier_wave) / [[additional ref. 반송파 AM FM PM PCM]](https://terms.naver.com/entry.nhn?docId=4390144&cid=60217&categoryId=60217)  
 
+## speed of light 
+
+*c = 3 X 10_8 m/s*  
+
+
 
 
