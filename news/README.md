@@ -3,8 +3,8 @@
 
 ## IoT (Wireless Communication)
 - [UWB (Ultra Wide Band)란 무엇인가](https://blog.naver.com/suresofttech/222020100797)
-- [초광대역(UWB)기술 : BMW의 디지털 자동차키 with 애플 iPhone (2020)](https://blog.naver.com/kyoung1155/222025404704) 휴대폰 분실시 Cloud 저장 data 활용
-- [호흡까지 감지···국내 '유일무이' UWB 레이더 기업으로](https://blog.naver.com/hellodd11/222044990869) UWB radar 원천기술+생산환경 보유 회사 UMAIN
+- [초광대역(UWB)기술 : BMW의 디지털 자동차키 with 애플 iPhone (2020)](https://blog.naver.com/kyoung1155/222025404704) : 휴대폰 분실시 Cloud 저장 data 활용
+- [호흡까지 감지· 국내 '유일무이' UWB 레이더 기업으로](https://blog.naver.com/hellodd11/222044990869) : UWB radar 원천기술+생산환경 보유 회사 UMAIN
 
 ## Mobile Web & QR Code
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
