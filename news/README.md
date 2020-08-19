@@ -1,4 +1,4 @@
-# NEWS Site for Technology & Business 
+# News for Technology & Business 
 
 
 ## IoT (Wireless Communication)
