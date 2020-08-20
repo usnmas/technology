@@ -7,3 +7,4 @@
 ## Organization 
 
 - [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications 
+- [NXP Semi-Conductor Company](https://blog.naver.com/nxpkor) : NXP Korea Blog Site
