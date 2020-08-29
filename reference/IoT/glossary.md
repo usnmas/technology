@@ -45,5 +45,6 @@ In probability theory, a **normal (or Gaussian or Gauss or Laplace–Gauss) dist
 
 **Wireless device fingerprinting** is identification of radio transmitters using device-specific artifacts of their output signals, which are caused by natural variations of hardware properties. A device fingerprint, or signature, is a compact representation of such artifacts. Wireless device fingerprinting is distinct from **wireless channel fingerprinting**, which relates to motion detection and position tracking of radio transmitters. [[source: Springer Link - Encyclopedia of Cryptography and Security]](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-5906-5_52#howtocite)  
 
+## frequency / bandwidth / wavelength 
 
-
+*f = v / $\lambda$* 
