@@ -47,4 +47,4 @@ In probability theory, a **normal (or Gaussian or Gauss or Laplace–Gauss) dist
 
 ## frequency / bandwidth / wavelength 
 
-*f = v / $\lambda$* 
+*f = v / \lambda* 
