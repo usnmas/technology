@@ -47,7 +47,7 @@ In probability theory, a **normal (or Gaussian or Gauss or Laplace–Gauss) dist
 
 ## frequency / bandwidth / wavelength 
 
-*f (frequency)  =  v (speed)  /  &lambda; (wavelength)*  
-*B (bandwidth)  =  f<sub>U</sub>  -  f<sub>L</sub>*  
+*f (frequency) = v (speed) / &lambda; (wavelength)*  
+*B (bandwidth) = f<sub>U</sub> (upper) - f<sub>L</sub> (lower)*  
 [[Source : Difference Between Frequency and Bandwidth]](https://circuitglobe.com/difference-between-frequency-and-bandwidth.html)  
 
