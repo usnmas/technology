@@ -11,4 +11,6 @@
 - [크래카](https://www.craeca.com) : 무선통신 (UWB / Radar) / 계측기 모듈 공급  
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
 - [GSIL](http://gsil.kr/) : 스마트 건설 안전 관리 시스템 (근로자 위치 등 관리)  
+- [GSIL](https://blog.naver.com/gsilove11) : GSIL 블로그  
+
 
