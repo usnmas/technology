@@ -7,6 +7,10 @@
 - [호흡까지 감지· 국내 '유일무이' UWB 레이더 기업으로](https://blog.naver.com/hellodd11/222044990869) : UWB radar 원천기술+생산환경 보유 회사 UMAIN
 - [NXP, 삼성 갤럭시 노트 20 울트라에 시큐어 초광대역(UWB) 솔루션 적용](https://blog.naver.com/nxpkor/222058246791) : NXP Semi-conductor UWB applications 
 
+## RTLS (Real Time Location System) 
+- [<안전보건공단 매거진> GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
+- [IoT 할용사례 2편, 실시간 위치추적시스템(RTLS) (2014)](https://blog.naver.com/kic_systems/220137332911) : KIC 시스템즈 (현재 기업정보 없음)
+
 ## Mobile Web & QR Code
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
 - [PowerApps](https://powerapps.microsoft.com/) / [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork) / [AppSheet](https://www.appsheet.com/)
