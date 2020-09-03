@@ -6,6 +6,7 @@
 - [초광대역(UWB)기술 : BMW의 디지털 자동차키 with 애플 iPhone (2020)](https://blog.naver.com/kyoung1155/222025404704) : 휴대폰 분실시 Cloud 저장 data 활용
 - [호흡까지 감지· 국내 '유일무이' UWB 레이더 기업으로](https://blog.naver.com/hellodd11/222044990869) : UWB radar 원천기술+생산환경 보유 회사 UMAIN
 - [NXP, 삼성 갤럭시 노트 20 울트라에 시큐어 초광대역(UWB) 솔루션 적용](https://blog.naver.com/nxpkor/222058246791) : NXP Semi-conductor UWB applications 
+- [Part 1. '더 빠르고 정확' 생존을 위한 물류창고의 무한변신 (2020.02)](http://www.klnews.co.kr/news/articleView.html?idxno=120798) : WMS / WCS / WES / AR / RFID
 
 ## RTLS (Real Time Location System) 
 - [<안전보건공단 매거진> GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
