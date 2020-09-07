@@ -51,3 +51,7 @@ In probability theory, a **normal (or Gaussian or Gauss or Laplace–Gauss) dist
 *B (bandwidth) = f<sub>U</sub> (upper) - f<sub>L</sub> (lower)*  
 [[source : Difference Between Frequency and Bandwidth]](https://circuitglobe.com/difference-between-frequency-and-bandwidth.html)  
 
+## position / location / navigation / localization
+
+In the late '80s, Hassan Karimi coined the term PLANS for "positioning, location and navigation systems." Recently, some authors use the term localization instead of positioning, particularly for short-range applications. [[source : StackExchange - Difference between Positioning and Localization]](https://gis.stackexchange.com/questions/106785/difference-between-positioning-and-localization)  
+
