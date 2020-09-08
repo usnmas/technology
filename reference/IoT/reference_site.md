@@ -14,4 +14,6 @@
 - [GSIL](https://blog.naver.com/gsilove11) : GSIL 블로그  
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
+- [Litum](https://litumiot.com/) : RTLS UWB  
+
 
