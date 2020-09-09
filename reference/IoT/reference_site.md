@@ -13,5 +13,6 @@
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
 - [Litum](https://litumiot.com/) : RTLS UWB  
+- [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 
 
