@@ -6,5 +6,10 @@
 
 ## IoT
 - [RTLS (Real Time Location System) 소개](https://blog.naver.com/intknk2) : Int K&K (RTLS & Positioning solution company)  
-- [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications](http://www.starlino.com/imu_guide.html)
+- [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications](http://www.starlino.com/imu_guide.html)  
+
+## Edge Computing 
+- [IBM](https://www.ibm.com/cloud/edge-computing)
+- [Ericsson](https://www.ericsson.com/en/digital-services/edge-computing)  
+
 
