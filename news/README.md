@@ -12,6 +12,7 @@
 ## RTLS (Real Time Location System) 
 - [<안전보건공단 매거진> GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
 - [IoT 할용사례 2편, 실시간 위치추적시스템(RTLS) (2014)](https://blog.naver.com/kic_systems/220137332911) : KIC 시스템즈 (현재 기업정보 없음)
+- [Sanitag Focuses on Health-care RTLS Solutions](http://www.fareastsun.com/News/news-0068.html) : Shenzhen FarEastSun Tech co. news about Litum - Wipelot - Sanitag
 
 ## Mobile Web & QR Code
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
