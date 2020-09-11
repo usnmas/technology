@@ -13,8 +13,8 @@
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
 - [Litum](https://litumiot.com/) : RTLS UWB  
-- [wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
-- []()
+- [Wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
+- [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 
 
