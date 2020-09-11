@@ -10,7 +10,7 @@
 - [현실과 가상을 잇는 증강현실(AR) 기술](https://m.post.naver.com/viewer/postView.nhn?volumeNo=29140486&memberNo=3358147&vType=VERTICAL) : Schneider Electric Augmented Operator Advisor (AOA)
 
 ## RTLS (Real Time Location System) 
-- [<안전보건공단 매거진> GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
+- [[안전보건공단 매거진] GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
 - [IoT 할용사례 2편, 실시간 위치추적시스템(RTLS) (2014)](https://blog.naver.com/kic_systems/220137332911) : KIC 시스템즈 (현재 기업정보 없음)
 - [Sanitag Focuses on Health-care RTLS Solutions](http://www.fareastsun.com/News/news-0068.html) : Shenzhen FarEastSun Tech co. news about Litum - Wipelot - Sanitag
 
