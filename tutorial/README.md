@@ -12,4 +12,6 @@
 - [IBM](https://www.ibm.com/cloud/edge-computing)
 - [Ericsson](https://www.ericsson.com/en/digital-services/edge-computing)  
 
+## Machine Learning
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) : Step-by-step guide
 
