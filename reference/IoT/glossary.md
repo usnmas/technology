@@ -55,7 +55,7 @@ In probability theory, a **normal (or Gaussian or Gauss or Laplace–Gauss) dist
 *B (bandwidth) = f<sub>U</sub> (upper) - f<sub>L</sub> (lower)*  
 [[source : Difference Between Frequency and Bandwidth]](https://circuitglobe.com/difference-between-frequency-and-bandwidth.html)  
 
-## position / location / navigation / localization / ranging / (bi or multi)lateration
+## position / location / navigation / localization / ranging / (bi or multi) lateration
 
 In the late '80s, Hassan Karimi coined the term PLANS for "positioning, location and navigation systems." Recently, some authors use the term localization instead of positioning, particularly for short-range applications. [[source : StackExchange - Difference between Positioning and Localization]](https://gis.stackexchange.com/questions/106785/difference-between-positioning-and-localization)   
 Ranging is a process or method to determine the distance from one location or position to another location or position. Another term for this method is lateration. Further development led to cooperative systems, where both locations are equipped with respective apparatus and thus provide bilateral measuring and to multilateral measurement between a larger set of locations, see multilateration. Members in the class of active ranging systems operate with unilateral transmission and passive reflections, as **SONAR, RADAR and LIDAR**. Special ranging makes use of actively synchronized transmission and travel time measurements, hence the time difference between several received signals is used to determine exact distances.
