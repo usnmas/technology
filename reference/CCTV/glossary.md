@@ -7,5 +7,5 @@
 
 ## VMS / CMS
 
-Video Management System (Software) / Central Management System (Software) [[source: IPVM]](https://ipvm.com/reports/vms-vs-cms)  
+Video Management System (Software) / Central Management System (Software). CMS does not include recording. [[source: IPVM]](https://ipvm.com/reports/vms-vs-cms)  
 
