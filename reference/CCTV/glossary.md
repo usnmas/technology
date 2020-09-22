@@ -1,7 +1,7 @@
 # Glossary for CCTV system
 
 
-## PTZ Camera   
+## PTZ / Dome / Bullet Camera    
 
 **Pan-Tilt-Zoom** Camera. [[source: KR Wikipedia]](https://ko.wikipedia.org/wiki/%ED%8C%AC-%ED%8B%B8%ED%8A%B8-%EC%A4%8C_%EC%B9%B4%EB%A9%94%EB%9D%BC)  
 
