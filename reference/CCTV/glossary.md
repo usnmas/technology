@@ -1,5 +1,10 @@
 # Glossary for CCTV system
 
+## NVR / DVR  
+
+Network Video Recorder / Digital Video Recorder [[source: Swann]](https://www.swann.com/blog/dvr-vs-nvr-whats-the-difference/)
+
+
 
 ## PTZ / Dome / Bullet Camera    
 
