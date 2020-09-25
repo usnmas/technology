@@ -16,5 +16,6 @@
 - [Wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
 - [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
+- [Allsensing](http://allsensing.com/shopinfo/company.html) : Sensor Shopping Mall
 
 
