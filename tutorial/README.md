@@ -14,6 +14,7 @@
 
 ## Machine Learning
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/) : Step-by-step guide
+- [Machine Learning Study](https://github.com/teddylee777/machine-learning) : ML 입문자용 기술자료 정리
 
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
