@@ -14,6 +14,9 @@
 - [IoT 할용사례 2편, 실시간 위치추적시스템(RTLS) (2014)](https://blog.naver.com/kic_systems/220137332911) : KIC 시스템즈 (현재 기업정보 없음)
 - [Sanitag Focuses on Health-care RTLS Solutions](http://www.fareastsun.com/News/news-0068.html) : Shenzhen FarEastSun Tech co. news about Litum - Wipelot - Sanitag
 
+## 5G
+- [5G 릴리즈16, 5G 성능진화에 자율주행·스마트공장 표준까지 (2020.09)](https://n.news.naver.com/article/030/0002901299) : 3GPP 5G 2단계 Release 16
+
 ## Mobile Web & QR Code
 - [MS "코딩 필요없는 비즈니스 앱 개발 시대 연다"](https://n.news.naver.com/article/293/0000027493)
 - [PowerApps](https://powerapps.microsoft.com/) / [unqork](https://www.unqork.com/no-code-software-platform-enterprise-apps-unqork) / [AppSheet](https://www.appsheet.com/)
