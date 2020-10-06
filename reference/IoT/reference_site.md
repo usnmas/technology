@@ -15,11 +15,12 @@
 - [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 - [quuppa](https://quuppa.com/) : RTLS using BLE (locator, engine, location-based service) 
-- [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : Decawave (UWB) Merge
+- [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
 
 ## Organization (Domestic)  
 
 - [크래카](https://www.craeca.com) : 무선통신 (UWB / Radar) / 계측기 모듈 공급  
 - [GSIL](http://gsil.kr/) : 스마트 건설 안전 관리 시스템 (근로자 위치 등 관리) [(Blog)](https://blog.naver.com/gsilove11)
+- [Zerom](http://www.zerom.io/) : Blockchain / RTLS (Monitor / Analyzer / Dashboard / Simulator)
 - [Allsensing](http://allsensing.com/shopinfo/company.html) : Sensor Shopping Mall   
 
