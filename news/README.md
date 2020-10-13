@@ -14,7 +14,7 @@
 - [IoT 할용사례 2편, 실시간 위치추적시스템(RTLS) (2014)](https://blog.naver.com/kic_systems/220137332911) : KIC 시스템즈 (현재 기업정보 없음)
 - [Sanitag Focuses on Health-care RTLS Solutions](http://www.fareastsun.com/News/news-0068.html) : Shenzhen FarEastSun Tech co. news about Litum - Wipelot - Sanitag
 - [휴대폰 위치정보 20~30cm 수준으로 정확해진다 (2020.09)](https://n.news.naver.com/article/092/0002199817) : SSR (State Space Representation) 상태공간보정 / OSR / GNSS
-- [ZEROM, 기업에서 바이러스 감염자 찾기 유용한 RTLS 솔루션 선보여 (2020.05)](http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=203&sub=004&idx=52371) : RTLS 활용
+- [ZEROM, 기업에서 바이러스 감염자 찾기 유용한 RTLS 솔루션 선보여 (2020.05)](http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=203&sub=004&idx=52371) : RTLS (w/온도센서, 호흡센서) 활용 대상자 동선 추적
 
 ## 5G
 - [5G 릴리즈16, 5G 성능진화에 자율주행·스마트공장 표준까지 (2020.09)](https://n.news.naver.com/article/030/0002901299) : 3GPP 5G 2단계 Release 16
