@@ -6,7 +6,7 @@
 
 ## Organization (Overseas)  
 
-- [<ins>NXP Semi-Conductor Company</ins>](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
+- [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
@@ -16,6 +16,7 @@
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 - [quuppa](https://quuppa.com/) : RTLS using BLE (locator, engine, location-based service) 
 - [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
+- [Honeywell](https://hwll.co/RTLS) : RTLS using RFID  
 
 ## Organization (Domestic)  
 
