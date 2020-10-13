@@ -20,7 +20,7 @@
 - [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
 - [Honeywell](https://hwll.co/RTLS) : RTLS using RFID  
 - [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
-
+- [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
 
 ## Organization (Domestic)  
 
