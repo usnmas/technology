@@ -19,6 +19,8 @@
 - [quuppa](https://quuppa.com/) : RTLS using BLE (locator, engine, location-based service) 
 - [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
 - [Honeywell](https://hwll.co/RTLS) : RTLS using RFID  
+- [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
+
 
 ## Organization (Domestic)  
 
