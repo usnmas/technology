@@ -8,11 +8,13 @@
 
 - [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
-- [kontakt.io](https://kontakt.io/) : BLE Beacon
-- [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
+- [Sewio](https://www.sewio.net/) : RTLS UWB
+- [Eliko](https://www.eliko.ee/) : Embedded electronics ans SW. KIO RTLS (Estonian Co.)
 - [Litum](https://litumiot.com/) : RTLS UWB  
 - [Wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
 - [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
+- [kontakt.io](https://kontakt.io/) : BLE Beacon
+- [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 - [quuppa](https://quuppa.com/) : RTLS using BLE (locator, engine, location-based service) 
 - [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
