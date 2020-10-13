@@ -6,7 +6,7 @@
 
 ## Organization (Overseas)  
 
-- [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
+- [_NXP Semi-Conductor Company_](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
