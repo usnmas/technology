@@ -6,11 +6,11 @@
 
 ## Organization (Overseas)  
 
-- [**NXP Semi-Conductor Company**](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
+- [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
 - [kontakt.io](https://kontakt.io/) : BLE Beacon
 - [MotioSens](http://www.motiosens.com/) : UWB / Smart home (unobtrusive monitoring) 
-- [**Litum**](https://litumiot.com/) : RTLS UWB  
+- [Litum](https://litumiot.com/) : RTLS UWB  
 - [Wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
 - [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
