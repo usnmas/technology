@@ -9,7 +9,7 @@
 - [NXP Semi-Conductor Company](https://www.nxp.com/applications/solutions/enabling-technologies/connectivity/ultra-wideband-uwb:UWB) : UWB applications [(Blog)](https://blog.naver.com/nxpkor)
 - [infsoft](https://www.infsoft.com/) : RTLS / Indoor positioning (German Co.)
 - [Sewio](https://www.sewio.net/) : RTLS UWB
-- [Eliko](https://www.eliko.ee/) : Embedded electronics ans SW. KIO RTLS (Estonian Co.)
+- [Eliko](https://www.eliko.ee/) : Embedded electronics and software. KIO RTLS (Estonian Co.)
 - [Litum](https://litumiot.com/) : RTLS UWB  
 - [Wipelot](https://www.wipelot.com/HomePage) : IIoT / RTLS Hardware
 - [Sanitag](https://www.sanitag.com/) : RTLS for Healthcare (spin-off from Litum & Wipelot)
