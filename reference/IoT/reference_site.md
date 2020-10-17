@@ -21,6 +21,7 @@
 - [Honeywell](https://hwll.co/RTLS) : RTLS using RFID  
 - [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
 - [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
+- [MapsPeople](https://www.mapspeople.com/) : Indoor Navigation Appl. 
 
 ## Organization (Domestic)  
 
