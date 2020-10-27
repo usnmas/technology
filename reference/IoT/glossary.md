@@ -63,3 +63,7 @@ Ranging is a process or method to determine the distance from one location or po
 ## Linear Algebra / Matrix / Determinant / Vector / Scalar
 선형대수는 행렬이론이나 벡터공간이론 등을 활용해 선형방정식의 해를 구하는 것을 핵심적으로 하고 있다. 즉, 행렬은 주어진 선형시스템 내에서 현상을 보다 효과적으로 표현 가능하도록 해주며, 벡터(vector)는 제한된 공간 안에서의 선형사상을 표현하는데 유용하게 사용된다. 행렬식(行列式, determinant)이란 정방행렬 A에서 하나의 스칼라값을 대응시키는 함수로써 보통 Det(A) 또는 |A|로 표시한다. [[source: [네이버 지식백과] 선형대수학]](https://terms.naver.com/entry.nhn?docId=2164903&cid=44413&categoryId=44413)     
 
+## RSSI / CSI / 
+- RSSI (Received Signal Strength Indicator) : The RSS is the actual signal power strength received at the receiver, usually measured in decibel-milliwatts (dBm) or milliWatts (mW). RSS indicator, a relative measurement of the RSS that has arbitrary units and is mostly defined by each chip vendor. While the RSS based approach is simple and cost efficient, it suffers from poor localization accuracy (especially in non-lineof-sight conditions) due to additional signal attenuation resulting from transmission through walls and other big obstacles and severe RSS fluctuation due to multipath fading and indoor noise
+- CSI (Channel State Information) : In wireless communications, channel state information (CSI) refers to known channel properties of a communication link. This information describes how a signal propagates from the transmitter to the receiver and represents the combined effect of, for example, scattering, fading, and power decay with distance. The method is called Channel estimation.  
+
