@@ -67,7 +67,7 @@ Ranging is a process or method to determine the distance from one location or po
 - **RSSI (Received Signal Strength Indicator)** : The RSS is the actual signal power strength received at the receiver, usually measured in decibel-milliwatts (dBm) or milliWatts (mW). RSS indicator, a relative measurement of the RSS that has arbitrary units and is mostly defined by each chip vendor. While the RSS based approach is simple and cost efficient, it suffers from poor localization accuracy (especially in non-lineof-sight conditions) due to additional signal attenuation resulting from transmission through walls and other big obstacles and severe RSS fluctuation due to multipath fading and indoor noise
 - **CSI (Channel State Information)** : In wireless communications, channel state information (CSI) refers to known channel properties of a communication link. This information describes how a signal propagates from the transmitter to the receiver and represents the combined effect of, for example, scattering, fading, and power decay with distance. The method is called Channel estimation.  
 - **Fingerprinting / Scene Analysis** : Scene analysis based localization techniques usually require environmental survey to obtain fingerprints or features of the environment where the localization system is to be used. Usually the fingerprints or features are collected in form of RSSI or CSI. 
-Offline and Online measurements matching algorithms : **Probabilistic methods / Artificial Neural Networks / k-Nearest Neighbor (kNN) / Support Vector Machine (SVM)**   
+Offline and Online measurements matching algorithms : **Probabilistic methods / Artificial Neural Networks (ANN) / k-Nearest Neighbor (kNN) / Support Vector Machine (SVM)**   
 
 
 
