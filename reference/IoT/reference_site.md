@@ -27,6 +27,7 @@
 
 - [People & Technology](http://www.pntbiz.co.kr/) : IndoorPlus+ RTLS / Sensor
 - [GSIL](http://gsil.kr/) : 스마트 건설 안전 관리 시스템 (근로자 위치 등 관리) [(Blog)](https://blog.naver.com/gsilove11)
+- [SBSystems](http://www.sbsystems.co.kr/) : BLE 기반 측위. Wearable Watch
 - [Zerom](http://www.zerom.io/) : Blockchain / RTLS (Monitor / Analyzer / Dashboard / Simulator)
 - [크래카](https://www.craeca.com) : 무선통신 (UWB / Radar) / 계측기 모듈 공급  
 - [Allsensing](http://allsensing.com/shopinfo/company.html) : Sensor Shopping Mall   
