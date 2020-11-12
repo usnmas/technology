@@ -2,6 +2,7 @@
 
 ## Organization (Nonprofit)
 
+- [UWB Alliance](https://uwballiance.org/) : UWB
 - [FiRa Consortium](https://www.firaconsortium.org/) : Fine Ranging and Positioning capabilities of UWB technology
 - [LoRa Alliance](https://lora-alliance.org/) : Long Range Low Power Wide Area Network
 
