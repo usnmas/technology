@@ -28,6 +28,7 @@
 - [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
 - [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
 - [MapsPeople](https://www.mapspeople.com/) : Indoor Navigation Appl. 
+- [Link Labs](https://www.link-labs.com/) : Asset Tracking / RTLS 
 
 ## Organization (Domestic)  
 
