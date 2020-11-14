@@ -29,6 +29,7 @@
 - [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
 - [MapsPeople](https://www.mapspeople.com/) : Indoor Navigation Appl. 
 - [Link Labs](https://www.link-labs.com/) : Asset Tracking / RTLS 
+- [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
 
 ## Organization (Domestic)  
 
