@@ -30,6 +30,7 @@
 - [MapsPeople](https://www.mapspeople.com/) : Indoor Navigation Appl. 
 - [Link Labs](https://www.link-labs.com/) : Asset Tracking / RTLS 
 - [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
+- [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
 
 ## Organization (Domestic)  
 
