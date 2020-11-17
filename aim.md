@@ -1,5 +1,6 @@
 # Aim at 
 
+## Primary Research Area
 1. **3D positioning including compensation by mobile interrogator (rather than fixed anchor)**  
    1. Usage : position measuring by Drones
    1. Consideration : position of z-axis 
@@ -11,8 +12,9 @@
 1. **IR (Impulse Radio) Emission into WBAN (Wireless Body Area Network)**
    1. Usage : GPR (Ground Penetrating Radar)  
    
+## Related Topics 
 - Tools : Machine Learning / Blockchain / Edge Computing  
-
 - Further Research : LoRaWan / NB-IoT   
-
-
+- Consideration
+  1. 222
+  1. 1121424
