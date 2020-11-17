@@ -14,7 +14,7 @@
    
 ## Related Topics 
 - Tools : Machine Learning / Blockchain / Edge Computing  
-- Further Research : LoRaWan / NB-IoT   
+- Further Research : LoRaWan / NB-IoT (in Farms)    
 - Consideration
   1. UWB chip manufacturers mostly provide with positioning algorithms and software, so that a pivotal direction is critical, whether it is for the algorithm itself, for the combination of existing algorithms, or for the application development.   
   1. The prices of the chip and AP's will go down as many manufacturers are producing, so that the potential revenue should be kept in mind. 
