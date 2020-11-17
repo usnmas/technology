@@ -24,6 +24,7 @@
 - [Starlino Electronics](http://www.starlino.com/) : Electronic device research and development
 - [quuppa](https://quuppa.com/) : RTLS using BLE (locator, engine, location-based service) 
 - [Qorvo](https://www.qorvo.com/feature/ultra-wideband-decawave) : **Decawave** (UWB chip) Merge
+- [Symmetry Electronics](https://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70928) : Decawave HW Distributor. Dev Kit for DWM1001 module 
 - [Honeywell](https://hwll.co/RTLS) : RTLS using RFID  
 - [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
 - [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
@@ -32,7 +33,6 @@
 - [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
 - [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
 - [Locatify](https://locatify.com/) : Mobile App Development using UWB RTLS
-- [Symmetry Electronics](https://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70928) : Decawave HW Distributor. Dev Kit for DWM1001 module 
 
 ## Organization (Domestic)  
 
