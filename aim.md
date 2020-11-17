@@ -17,4 +17,4 @@
 - Further Research : LoRaWan / NB-IoT   
 - Consideration
   1. UWB chip manufacturers mostly provide with positioning algorithms and software, so that a pivotal direction is critical, whether it is for the algorithm itself, for the combination of existing algorithms, or for the application development.   
-  1. The cost of the chip will go down as many manufacturers are producing, so that the potential revenue should be kept in mind. 
+  1. The prices of the chip and AP's will go down as many manufacturers are producing, so that the potential revenue should be kept in mind. 
