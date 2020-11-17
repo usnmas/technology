@@ -32,6 +32,7 @@
 - [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
 - [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
 - [Locatify](https://locatify.com/) : Mobile App Development using UWB RTLS
+- [Symmetry Electronics](https://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=70928) : Decawave HW Distributor. Dev Kit for DWM1001 module 
 
 ## Organization (Domestic)  
 
