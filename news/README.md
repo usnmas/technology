@@ -19,6 +19,7 @@
 - ["추락사 없는 건설환경 만든다"…정부, 사고방지대책 마련 (2019)](https://www.nfsa.go.kr/nfa/news/firenews/disasterNews/?mode=view&cntId=13811)  
 - [GS건설 건설현장에 스마트기술 (2020.07)](http://www.businesspost.co.kr/BP?command=article_view&num=189351) : GS건설 스마트안전관리시스템 (LG유플러스, Bluetooth)
 - [건설, 유니콘 기업을 키워라 (2020.10)](http://m.dnews.co.kr/m_home/view.jsp?idxno=202010071530027630785) : 건설산업 스타트업
+- [차량용 실내 내비 '베스텔라랩', 서울시 주차장에 첫 적용 (2020.11)](https://n.news.naver.com/article/030/0002913564) : 베스텔라랩. 차량용 실내 네비게이션 '워치마일'. CCTV기반 공간상태 분석. Two Point 측위.  
 
 ## 5G
 - [5G 릴리즈16, 5G 성능진화에 자율주행·스마트공장 표준까지 (2020.09)](https://n.news.naver.com/article/030/0002901299) : 3GPP 5G 2단계 Release 16
