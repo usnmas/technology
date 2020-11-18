@@ -16,7 +16,9 @@
 - [휴대폰 위치정보 20~30cm 수준으로 정확해진다 (2020.09)](https://n.news.naver.com/article/092/0002199817) : SSR (State Space Representation) 상태공간보정 / OSR / GNSS
 - [ZEROM, 기업에서 바이러스 감염자 찾기 유용한 RTLS 솔루션 선보여 (2020.05)](http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=203&sub=004&idx=52371) : RTLS (w/온도센서, 호흡센서) 활용 대상자 동선 추적
 - [㈜피플앤드테크놀러지, 용인세브란스병원 RTLS 플랫폼 IndoorPlus+ 오픈](http://www.pntbiz.co.kr/index.php/2020/03/02/yonginseverancel_rtls_indoorplus/) : 자산, staff, 환자 위치 확인
-- ["추락사 없는 건설환경 만든다"…정부, 사고방지대책 마련](https://www.nfsa.go.kr/nfa/news/firenews/disasterNews/?mode=view&cntId=13811)  
+- ["추락사 없는 건설환경 만든다"…정부, 사고방지대책 마련 (2019)](https://www.nfsa.go.kr/nfa/news/firenews/disasterNews/?mode=view&cntId=13811)  
+- [GS건설 건설현장에 스마트기술 (2020.07)](http://www.businesspost.co.kr/BP?command=article_view&num=189351) : GS건설 스마트안전관리시스템 (LG유플러스, Bluetooth)
+- [건설, 유니콘 기업을 키워라 (2020.10)](http://m.dnews.co.kr/m_home/view.jsp?idxno=202010071530027630785) : 건설산업 스타트업
 
 ## 5G
 - [5G 릴리즈16, 5G 성능진화에 자율주행·스마트공장 표준까지 (2020.09)](https://n.news.naver.com/article/030/0002901299) : 3GPP 5G 2단계 Release 16
