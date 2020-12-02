@@ -34,6 +34,7 @@
 - [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
 - [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
 - [Locatify](https://locatify.com/) : Mobile App Development using UWB RTLS
+- [Novelda](https://novelda.com/) : UWB radar sensor design (Norway Co.) 
 
 ## Organization (Domestic)  
 
