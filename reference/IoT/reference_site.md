@@ -44,4 +44,4 @@
 - [Zerom](http://www.zerom.io/) : Blockchain / RTLS (Monitor / Analyzer / Dashboard / Simulator)
 - [크래카](https://www.craeca.com) : 무선통신 (UWB / Radar) / 계측기 모듈 공급  
 - [Allsensing](http://allsensing.com/shopinfo/company.html) : Sensor Shopping Mall   
-
+- [INT K&K](https://blog.naver.com/intknk2) : IPS / RTLS (w/infsoft)
