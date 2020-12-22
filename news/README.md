@@ -8,6 +8,7 @@
 - [NXP, 삼성 갤럭시 노트 20 울트라에 시큐어 초광대역(UWB) 솔루션 적용](https://blog.naver.com/nxpkor/222058246791) : NXP Semi-conductor UWB applications 
 - [Part 1. '더 빠르고 정확' 생존을 위한 물류창고의 무한변신 (2020.02)](http://www.klnews.co.kr/news/articleView.html?idxno=120798) : WMS / WCS / WES / AR / RFID
 - [현실과 가상을 잇는 증강현실(AR) 기술](https://m.post.naver.com/viewer/postView.nhn?volumeNo=29140486&memberNo=3358147&vType=VERTICAL) : Schneider Electric Augmented Operator Advisor (AOA)
+- ['사물 태깅' 시대 온다. 아이폰 11 진짜 혁신은 'U1 칩' (2019.09)](https://www.itworld.co.kr/news/131170) : Apple U1 Chip using UWB  
 
 ## RTLS (Real Time Location System) 
 - [[안전보건공단 매거진] GSIL RTLS 재난안전시스템 (2020.07)](https://blog.naver.com/bohemtic/222033313267) : RTLS / Mesh Network
