@@ -35,6 +35,7 @@
 - [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
 - [Locatify](https://locatify.com/) : Mobile App Development using UWB RTLS
 - [Novelda](https://novelda.com/) : UWB radar sensor design (Norway Co.) 
+- [RFID4U](https://rfid4u.com/) : RFID solutions (Asset Tracking)  
 
 ## Organization (Domestic)  
 
