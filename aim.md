@@ -17,7 +17,7 @@
    1. Usage : GPR (Ground Penetrating Radar)  
 1. **Reinforcement of securiy in short range wireless communication, based on IEEE 802.15.4z using UWB**  
 1. **Monitoring and managment of RTLS & IPS on smart phone**
-1. **AI application**  
+1. **AI applications**  
    1. Usage (Machine Learning) : Food freshness examination by visual identification
    1. Usage (Computer Vision) : Security camera auto detect / focus / trace  
 
@@ -25,5 +25,5 @@
 - Tools : Machine Learning / Blockchain / Edge Computing  
 - Further Research : LoRaWan / NB-IoT (in Farms)    
 - Consideration
-  1. UWB chip manufacturers mostly provide with positioning algorithms and software, so that a pivotal direction is critical, whether it is for the algorithm itself, for the combination of existing algorithms, or for the application development.   
+  1. UWB chip manufacturers mostly provide with positioning algorithms and software, so that a pivotal research focus is critical, whether it is for the algorithm itself, for the combination of existing algorithms, or for the application development.   
   1. The prices of the chip and AP's will go down as many manufacturers are producing, so that the potential revenue should be kept in mind. 
