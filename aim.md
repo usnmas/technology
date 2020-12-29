@@ -16,7 +16,10 @@
 1. **IR (Impulse Radio) Emission into WBAN (Wireless Body Area Network)**
    1. Usage : GPR (Ground Penetrating Radar)  
 1. **Reinforcement of securiy in short range wireless communication, based on IEEE 802.15.4z using UWB**  
-1. **Monitoring and managment of RTLS & IPS on smart phone** 
+1. **Monitoring and managment of RTLS & IPS on smart phone**
+1. **AI application**  
+   1. Usage (Machine Learning) : Food freshness examination by visual identification
+   1. Usage (Computer Vision) : Security camera auto detect / focus / trace  
 
 ## Related Topics 
 - Tools : Machine Learning / Blockchain / Edge Computing  
