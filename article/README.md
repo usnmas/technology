@@ -12,5 +12,6 @@
 
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Tools for Moving from an SQL Database to Hadoop](https://dzone.com/articles/tools-moving-sql-database) : Sqoop / cascading.jdbc / cascading-dbmigrate  
+- [Back to the Edge: AI Will Force Distributed Intelligence Everywhere](https://medium.com/s/ai-and-the-future-of-computing/back-to-the-edge-ai-will-force-distributed-intelligence-everywhere-6b458d7aae5d)  
 
 
