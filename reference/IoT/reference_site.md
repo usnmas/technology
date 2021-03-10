@@ -38,6 +38,7 @@
 - [RFID4U](https://rfid4u.com/) : RFID solutions (Asset Tracking)  
 - [TOPOSENS](https://toposens.com/) : Ultrasonic Sensor to determine 3D positions 
 - [HAILO](https://hailo.ai/) : ADAS / AI Processor for Edge Device    
+- [VENIAM](https://veniam.com/) : ADAS / C-V2X with Cloud Storage & Public Wi-Fi  
 
 ## Organization (Domestic)  
 
