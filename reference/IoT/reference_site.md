@@ -36,7 +36,8 @@
 - [Locatify](https://locatify.com/) : Mobile App Development using UWB RTLS
 - [Novelda](https://novelda.com/) : UWB radar sensor design (Norway Co.) 
 - [RFID4U](https://rfid4u.com/) : RFID solutions (Asset Tracking)  
-- [TOPOSENS](https://toposens.com/) : Ultrasonic Sensor to determine 3D positions  
+- [TOPOSENS](https://toposens.com/) : Ultrasonic Sensor to determine 3D positions 
+- [HAILO](https://hailo.ai/) : ADAS / AI Processor for Edge Device    
 
 ## Organization (Domestic)  
 
