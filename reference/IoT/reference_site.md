@@ -39,6 +39,7 @@
 - [TOPOSENS](https://toposens.com/) : Ultrasonic Sensor to determine 3D positions 
 - [HAILO](https://hailo.ai/) : ADAS / AI Processor for Edge Device    
 - [VENIAM](https://veniam.com/) : ADAS / C-V2X with Cloud Storage & Public Wi-Fi  
+- [Navigine](https://navigine.com/) : IPS Engine Dev. Open source API  
 
 ## Organization (Domestic)  
 
