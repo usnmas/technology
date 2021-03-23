@@ -19,5 +19,5 @@
 - [자율주행차 그것이 궁금하다 - 시즌1](https://blog.naver.com/soyose1/222083898215)
 - [자율주행차 그것이 궁금하다 - 시즌2](https://blog.naver.com/soyose1/222114258827)
 
-<div class="iframe" title="vimeo-player" src="https://player.vimeo.com/video/155164547" width="640" height="360" frameborder="0" allowfullscreen></div>
+<div class="iframe" title="vimeo-player" src="https://player.vimeo.com/video/155164547" width="640" height="360" frameborder="0" allowfullscreen>view video here</div>
 
