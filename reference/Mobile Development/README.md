@@ -1,5 +1,9 @@
 # Reference Site for Mobile Development   
 
+## General  
+
+- [HTML5 & Hybrid Development](https://trailhead.salesforce.com/en/content/learn/modules/mobile_sdk_hybrid/mobilesdk_hybrid_getting_started?trail_id=mobile_sdk_intro) : Comparison of Native (,React Native) / HTML5 / Hybrid (Salesforce SDK, Cordova)  
+
 ## Salesforce Mobile       
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
