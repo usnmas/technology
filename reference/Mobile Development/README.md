@@ -8,6 +8,7 @@
 
 - [What’s Different or Not Available in the Salesforce Mobile App](https://help.salesforce.com/articleView?id=limits_mobile_sf1_parent.htm&type=5)  
 - [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)  
+- [Creating an iOS Swift Project Manually](https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/ios_new_native_project_manual.htm)
 - [Salesforce Lightning Design System (LDS) Icons](https://www.lightningdesignsystem.com/icons/)  
 - [Iconography design guideline](https://www.lightningdesignsystem.com/guidelines/iconography/)  
 
