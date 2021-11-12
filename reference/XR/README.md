@@ -10,6 +10,6 @@
 - [Immersive Web Developer Home](https://immersiveweb.dev/)
 - [Immersive Web at W3C](https://github.com/immersive-web) : Github
 
-## Technical Reference  
+## Technical References  
 
-- [WebXR: What you can do today & what's coming tomorrow (2021)](https://youtu.be/t-uk8InHte4)
+- [WebXR: What you can do today & what's coming tomorrow (2021)](https://youtu.be/t-uk8InHte4) : Intro. Video by W3C Engineer. 
