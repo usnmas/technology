@@ -29,7 +29,7 @@
 - [Zebra](https://www.zebra.com/us/en/products/location-technologies.html) : Printer / Barcode / Scanner / RTLS (UWB & BLE)  
 - [Impinj](https://www.impinj.com/) : Tag chip / RAIN RFID  
 - [MapsPeople](https://www.mapspeople.com/) : Indoor Navigation Appl. 
-- [Link Labs](https://www.link-labs.com/) : Asset Tracking / RTLS 
+- [Link Labs](https://www.link-labs.com/) : Asset Tracking 
 - [indoorway](https://www.indoorway.com/) : UWB RTLS / asset utilization & process optimization (Poland Co.) 
 - [Proxipi](https://www.proxipi.com/?lang=en) : Collision Prevention using Magnetic Field
 - [IndoorAtlas](https://www.indooratlas.com/) : Magnetic-Field Fingerprinting / indoor positioning mobile app SDK
@@ -50,3 +50,4 @@
 - [크래카](https://www.craeca.com) : 무선통신 (UWB / Radar) / 계측기 모듈 공급  
 - [Allsensing](http://allsensing.com/shopinfo/company.html) : Sensor Shopping Mall   
 - [INT K&K](https://blog.naver.com/intknk2) : IPS / RTLS (w/infsoft)
+- [DataFlow](https://www.data-flow.co.kr) : UWB / Big Data / Varasto Collaboration [(Blog)](https://blog.naver.com/data_flow)
