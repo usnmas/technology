@@ -20,9 +20,12 @@
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) : interpreter. debugger
-
-### Practice
+- Practice
    - [Basic Practice](http://codingbat.com/python)
+   - [More Mathematical (and Harder) Practice](https://projecteuler.net/archives)
+   - [List of Practice Problems](http://www.codeabbey.com/index/task_list)
+   - [A SubReddit Devoted to Daily Practice Problems](https://www.reddit.com/r/dailyprogrammer)
+   - [Tricky website with very few hints and touch problems](http://www.pythonchallenge.com/)
 
 ## AR
 - [[Book] AR and VR Using the WebXR API](https://github.com/Apress/ar-vr-using-webxr-api) : sample code  
