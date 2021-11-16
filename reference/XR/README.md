@@ -24,3 +24,11 @@
 - [WebXR API Emulator by Mozilla Mixed Reality](https://addons.mozilla.org/en-GB/firefox/addon/webxr-api-emulator/)
 - [Mozilla Hubs](https://hubs.mozilla.com/) : VR based
 - [Mozilla Hubs](https://github.com/mozilla/hubs) : Open Source Software 
+- WebXR Standards for Developers
+  - [Web (VR) Fundamentals](https://developers.google.com/web/fundamentals/vr)
+  - [Build an augmented reality (AR) app using the WebXR Device API](https://codelabs.developers.google.com/ar-with-webxr#0)
+  - [WebXR Samples](https://immersive-web.github.io/webxr-samples/)
+- Mozilla Mixed Reality
+  - [Hubs by Mozilla AWS Quick Start](https://hubs.mozilla.com/docs/hubs-cloud-aws-quick-start.html)
+  - [Mozilla Mixed Reality Blog](https://blog.mozvr.com/)
+- Amazon Sumerian : Cloud based VR Service
