@@ -19,6 +19,7 @@
 
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) : interpreter. debugger
 
 ## AR
 - [[Book] AR and VR Using the WebXR API](https://github.com/Apress/ar-vr-using-webxr-api) : sample code  
