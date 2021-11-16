@@ -22,7 +22,7 @@
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) : interpreter. debugger
 
 ### Practice
-- [Basic Practice](http://codingbat.com/python)
+   - [Basic Practice](http://codingbat.com/python)
 
 ## AR
 - [[Book] AR and VR Using the WebXR API](https://github.com/Apress/ar-vr-using-webxr-api) : sample code  
