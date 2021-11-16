@@ -32,3 +32,6 @@
   - [Hubs by Mozilla AWS Quick Start](https://hubs.mozilla.com/docs/hubs-cloud-aws-quick-start.html)
   - [Mozilla Mixed Reality Blog](https://blog.mozvr.com/)
 - Amazon Sumerian : Cloud based VR Service
+  - [Amazon Sumerian User Guide](https://docs.aws.amazon.com/sumerian/latest/userguide/amazon-sumerian.html)
+  - [Amazon Sumerian Tutorials](https://docs.sumerian.amazonaws.com/)
+  - [Amazon Sumerian YouTube](https://www.youtube.com/c/AmazonSumerian)
