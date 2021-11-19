@@ -34,6 +34,6 @@
 - Amazon Sumerian : Cloud based VR Service
   - [Amazon Sumerian User Guide](https://docs.aws.amazon.com/sumerian/latest/userguide/amazon-sumerian.html)
   - [Amazon Sumerian Tutorials](https://docs.sumerian.amazonaws.com/)
-  - [Amazon Sumerian YouTube](https://www.youtube.com/c/AmazonSumerian)
+  - [Amazon Sumerian YouTube](https://youtu.be/KaW9D_rHhIc) : Creating AR/VR Experiences | Ep 1: Intro to Amazon Sumerian
 - Babylon.js 
   - [Introducing the Babylon.js GUI Editor (Alpha)](https://babylonjs.medium.com/introducing-the-babylon-js-gui-editor-alpha-89dc6a6461d8)
