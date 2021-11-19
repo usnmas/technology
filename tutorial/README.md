@@ -20,7 +20,7 @@
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) : interpreter. debugger
-- [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377086&utm_targetid=dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1009871&gclid=CjwKCAiAvriMBhAuEiwA8Cs5lU_yhyuyLxpiQEa6ALe0Wc7cMrw6JmM_e5wDlzQ6M3Tqz08NGhj5vRoCjV8QAvD_BwE)
+- [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
 - Practice
    - [Basic Practice](http://codingbat.com/python)
    - [More Mathematical (and Harder) Practice](https://projecteuler.net/archives)
