@@ -20,7 +20,10 @@
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial) : interpreter. debugger
-- [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
+- [DataCamp](https://www.datacamp.com/community/tutorials) : Data Scientist Tutorial  
+   - [Generating WordClouds in Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
+   - [Introduction to data visualization with Matplotlib](https://campus.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib/introduction-to-matplotlib?ex=1)
+   - [Neural Information Processing Systems (NIPS)](https://app.datacamp.com/learn/projects/158?open-modal=project-upgrade-modal)
 - Practice
    - [Basic Practice](http://codingbat.com/python)
    - [More Mathematical (and Harder) Practice](https://projecteuler.net/archives)
