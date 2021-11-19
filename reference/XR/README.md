@@ -18,8 +18,8 @@
 
 ## Introduction 
 
-- [WebXR: What you can do today & what's coming tomorrow (2021)](https://youtu.be/t-uk8InHte4) : Library Intro. Video by W3C Engineer  
-- [WebXR through Mozilla Hubs](https://youtu.be/bUk87y2VgCk) : KR Open Source Conference
+- [WebXR: What you can do today & what's coming tomorrow (2021)](https://youtu.be/t-uk8InHte4) : (Video by W3C Engineer) Library Intro.   
+- [WebXR through Mozilla Hubs](https://youtu.be/bUk87y2VgCk) : (Video by AWS evangelist) KR Open Source Conference
 - [Mozilla Experiences](https://mixedreality.mozilla.org/hello-webxr/) 
 - [WebXR API Emulator by Mozilla Mixed Reality](https://addons.mozilla.org/en-GB/firefox/addon/webxr-api-emulator/)
 - [Mozilla Hubs](https://hubs.mozilla.com/) : VR based
