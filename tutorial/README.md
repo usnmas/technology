@@ -7,6 +7,7 @@
 ## IoT
 - [RTLS (Real Time Location System) 소개](https://blog.naver.com/intknk2) : Int K&K (RTLS & Positioning solution company)  
 - [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications](http://www.starlino.com/imu_guide.html)  
+- [What is Modbus and How does it Work?](https://youtu.be/txi2p5_OjKU)
 
 ## Edge Computing 
 - [IBM](https://www.ibm.com/cloud/edge-computing)
