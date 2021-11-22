@@ -31,3 +31,8 @@
 
 - [What is React Native & How it is used in Mobile App Development?](https://www.zenesys.com/blog/reactnative-uses-in-mobile-app-development)  
 - [Difference between React JS and React Native](https://www.zenesys.com/blog/difference-between-reactjs-and-react-native)  
+
+## IT Strategy Planning
+
+- [An Example of an IT Strategic Plan](https://www.resolutets.com/it-strategy-plan-example/)
+- [How to Develop a Business IT Strategy](https://www.resolutets.com/it-business-strategy/)
