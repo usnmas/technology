@@ -8,7 +8,7 @@
 - [XMReality](https://xmreality.com/) : (Swedish) Remote Guidance / initiated by mine field bomb search    
 - [PTC - The State of the AR Market](https://www.ptc.com/en/resources/augmented-reality/white-paper/state-of-industrial-ar?utm_campaign=Multiple_Renurture_Re-engagement_FY20Q1_EM+2_Multi+Asset_+(ko-kr)&utm_medium=email&utm_source=Eloqua&identifier=CPTCP000006578199&src=button&elqTrackId=f2b5fb895e444b2bb42c8653632f8df7&elq=f90a0970a120425694db1fcc26764e6c&elqaid=35453&elqat=1&elqCampaignId=23710) : (American) CAD / PLM / IoT / AR  
 - [TeamViewer](https://www.teamviewer.com/en/industry-solutions/) : Industry Remote Solution with AR
-- [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/) : Spatial OS  
+- [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/insights/how-spatialos-works-with-game-engines) : Spatial OS (Cloud platform for multiplayer games) 
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
 
 ## Organization (Domestic)
