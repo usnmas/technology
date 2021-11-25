@@ -5,7 +5,7 @@
 - [Dassault Systems](https://www.3ds.com/) : (French) 3D Experience / Virtual Universe
 - [XMReality](https://xmreality.com/) : (Swedish) Remote Guidance / initiated by mine field bomb search    
 - [PTC - The State of the AR Market](https://www.ptc.com/en/resources/augmented-reality/white-paper/state-of-industrial-ar?utm_campaign=Multiple_Renurture_Re-engagement_FY20Q1_EM+2_Multi+Asset_+(ko-kr)&utm_medium=email&utm_source=Eloqua&identifier=CPTCP000006578199&src=button&elqTrackId=f2b5fb895e444b2bb42c8653632f8df7&elq=f90a0970a120425694db1fcc26764e6c&elqaid=35453&elqat=1&elqCampaignId=23710)  
-- [AVEVA](https://www.aveva.com/en/) 
+- [AVEVA](https://www.aveva.com/en/) : (British. owned by Schneider) Plant Design CAD / 3D Design & Controlling Software 
 - [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/) : Spatial OS  
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
 - [Immersive Web Developer Home](https://immersiveweb.dev/)
