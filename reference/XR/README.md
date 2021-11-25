@@ -13,7 +13,8 @@
 
 ## Organization (Domestic)
 
-- [VIRNECT](https://www.virnect.com) : Industrial AR/DT, BIM, OPC UA, Digital Twin  
+- [VIRNECT](https://www.virnect.com) : Industrial AR/DT / BIM / OPC UA / Digital Twin  
+- [AiiT One](http://www.aiitone.com/) : (old : SOLTWORKS. KOSTAQ) Military Simulation / Metaverse
 
 ## Technical References  
 
