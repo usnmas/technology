@@ -11,17 +11,14 @@
 - [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/) : Spatial OS  
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
 
-## Organization (non-profit)
-
-- [Immersive Web Developer Home](https://immersiveweb.dev/)
-- [Immersive Web at W3C](https://github.com/immersive-web) : Github
-
 ## Organization (Domestic)
 
 - [VIRNECT](https://www.virnect.com) : Industrial AR/DT, BIM, OPC UA, Digital Twin  
 
 ## Technical References  
 
+- [Immersive Web Developer Home](https://immersiveweb.dev/)
+- [Immersive Web at W3C](https://github.com/immersive-web) : Github
 - [WebXR Device API](https://immersive-web.github.io/webxr/) + Device API / Gamepads Module / AR Module / Hit Test Module / DOM Overlays Module / Layers API
 - [WebXR Browser Compatibility](https://caniuse.com/?search=webxr)  
 
