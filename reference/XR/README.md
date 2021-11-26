@@ -43,4 +43,5 @@
   - [Amazon Sumerian Tutorials](https://docs.sumerian.amazonaws.com/)
   - [Amazon Sumerian YouTube](https://youtu.be/KaW9D_rHhIc) : Creating AR/VR Experiences | Ep 1: Intro to Amazon Sumerian
 - Babylon.js 
-  - [Introducing the Babylon.js GUI Editor (Alpha)](https://babylonjs.medium.com/introducing-the-babylon-js-gui-editor-alpha-89dc6a6461d8)
+  - [Introducing the Babylon.js GUI Editor (Alpha)](https://babylonjs.medium.com/introducing-the-babylon-js-gui-editor-alpha-89dc6a6461d8) 
+  - [Babylon.js GUI Editor](https://gui.babylonjs.com/)
