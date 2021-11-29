@@ -1,6 +1,6 @@
 # Reference Site for Javascript / Node.js 
 
-## Javascript Debugging 
+## Web Developer Tool 
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Debugging in Chrome](https://javascript.info/debugging-chrome)
