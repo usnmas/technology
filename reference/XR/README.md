@@ -10,6 +10,7 @@
 - [TeamViewer](https://www.teamviewer.com/en/industry-solutions/) : Industry Remote Solution with AR
 - [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/insights/how-spatialos-works-with-game-engines) : Spatial OS (Cloud platform for multiplayer games) 
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
+- [GroupRoom](https://www.grouproom.io/) : Metaverse Meeting Room 
 
 ## Organization (Domestic)
 
