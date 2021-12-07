@@ -26,6 +26,7 @@
 - [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 Part 2](https://medium.com/naver-fe-platform/webxr-device-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9B%B9-ar-%EA%B5%AC%ED%98%84-%EA%B7%B8-%ED%95%9C%EA%B3%84%EC%99%80-%EB%8C%80%EC%95%88-part-2-eb84a64bd92e)  
 - [Building Virtual Reality Experiences on the Web with React VR](https://developer.oculus.com/blog/building-virtual-reality-experiences-on-the-web-with-react-vr/)  
 - [Nearby Interaction with U1](https://developer.apple.com/videos/play/wwdc2020/10668/) : iOS Nearby Interaction Framework (Video)  
+- [ARKit vs ARCore](https://youtu.be/8vc2V60hS9c) : KR Developer's View (Video)
 
 ## Mobile Development  
 
