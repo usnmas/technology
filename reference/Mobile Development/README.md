@@ -2,7 +2,7 @@
 
 ## General  
 
-- [HTML5 & Hybrid Development](https://trailhead.salesforce.com/en/content/learn/modules/mobile_sdk_hybrid/mobilesdk_hybrid_getting_started?trail_id=mobile_sdk_intro) : (SFDC Trailhead) Comparison of Native (,React Native) / HTML5 / Hybrid (Salesforce SDK, Cordova)  
+- [HTML5 & Hybrid Development](https://trailhead.salesforce.com/en/content/learn/modules/mobile_sdk_hybrid/mobilesdk_hybrid_getting_started?trail_id=mobile_sdk_intro) : [SFDC Trailhead] Comparison of Native (,React Native) / HTML5 / Hybrid (Salesforce SDK, Cordova)  
 
 ## Salesforce Mobile       
 
