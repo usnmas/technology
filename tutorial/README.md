@@ -38,7 +38,7 @@
 - [Three.js Crash Course for Absolute Beginners - 3D in the Browser](https://youtu.be/6oFvqLfRnsU) : YouTube 45min
 
 ## Javascript
-- [Nik Lever](https://niklever.com/) : Retired Udemy Lecturer. Discount Coupon. 
+- [Nik Lever](https://niklever.com/) : Retired Udemy Lecturer. Discount Coupon
 
 ## Git
 - [git/github](https://blog.naver.com/nicholasdw/222290803114) : Basic Usage  
