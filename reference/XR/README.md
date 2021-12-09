@@ -31,7 +31,7 @@
 - [Mozilla Experiences](https://mixedreality.mozilla.org/hello-webxr/) 
 - [WebXR API Emulator by Mozilla Mixed Reality](https://addons.mozilla.org/en-GB/firefox/addon/webxr-api-emulator/)
 - [Mozilla Hubs](https://hubs.mozilla.com/) : VR based
-- [Mozilla Hubs](https://github.com/mozilla/hubs) : Open Source Software 
+- [Mozilla Hubs Github](https://github.com/mozilla/hubs) : Open Source Software 
 - WebXR Standards for Developers
   - [Web (VR) Fundamentals](https://developers.google.com/web/fundamentals/vr)
   - [Build an augmented reality (AR) app using the WebXR Device API](https://codelabs.developers.google.com/ar-with-webxr#0)
