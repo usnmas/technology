@@ -32,6 +32,8 @@
    - [List of Practice Problems](http://www.codeabbey.com/index/task_list)
    - [A SubReddit Devoted to Daily Practice Problems](https://www.reddit.com/r/dailyprogrammer)
    - [Tricky website with very few hints and touch problems](http://www.pythonchallenge.com/)
+- [Python for Everybody](https://www.py4e.com/)
+- [모두를 위한 프로그래밍 : 파이썬](https://www.edwith.org/pythonforeverybody)  
 
 ## XR
 - [[Book] AR and VR Using the WebXR API](https://github.com/Apress/ar-vr-using-webxr-api) : sample code  
