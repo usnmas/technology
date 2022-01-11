@@ -3,6 +3,7 @@
 ## Primer & Official Site
 
 - [TensorFlow](https://www.tensorflow.org/)
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) : Computer Vision Dataset
 
 ## Certificate
 
