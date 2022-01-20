@@ -19,6 +19,7 @@
 - [Teddy Note](https://teddylee777.github.io/) : ML Self-Study 자료
 - [AI for Everyone](https://www.deeplearning.ai/program/ai-for-everyone/) : 6hrs non-technical course 
 - [7 Best Free Computer Vision Courses You Must Know in 2022](https://www.mltut.com/best-free-computer-vision-courses/)
+- [10 Best Machine Learning Courses to Take in 2022](https://www.freecodecamp.org/news/best-machine-learning-courses/)
 
 ## Python
 - [Conda virtual environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)  
