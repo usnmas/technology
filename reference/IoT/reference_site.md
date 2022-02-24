@@ -44,6 +44,7 @@
 ## Organization (Domestic)  
 
 - [People & Technology](http://www.pntbiz.co.kr/) : IndoorPlus+ RTLS / Sensor
+- [GEOPLAN](https://www.geoplan.kr/) : UWB 기반 RTLS / 출입통제
 - [GSIL](http://gsil.kr/) : 스마트 건설 안전 관리 시스템 (근로자 위치 등 관리) [(Blog)](https://blog.naver.com/gsilove11)
 - [SBSystems](http://www.sbsystems.co.kr/) : BLE 기반 측위. Wearable Watch
 - [Zerom](http://www.zerom.io/) : Blockchain / RTLS (Monitor / Analyzer / Dashboard / Simulator)
