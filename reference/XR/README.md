@@ -11,6 +11,7 @@
 - [IMS(Improbable Multiplayer Services)](https://ims.improbable.io/insights/how-spatialos-works-with-game-engines) : Spatial OS (Cloud platform for multiplayer games) 
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
 - [GroupRoom](https://www.grouproom.io/) : Metaverse Meeting Room 
+- [8th Wall](https://www.8thwall.com/) : SLAM (Simultaneous Localization and Mapping) Engine
 
 ## Organization (Domestic)
 
