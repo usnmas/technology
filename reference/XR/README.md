@@ -57,4 +57,6 @@
 - [Google Developers Codelabs (AR)](https://codelabs.developers.google.com/?category=ar)
 - [Google Developers Codelabs / Use the ARCore Depth API for immersive augmented reality experiences](https://codelabs.developers.google.com/codelabs/arcore-depth?hl=en#0)
 - [DepthLAB](https://augmentedperception.github.io/depthlab/) : Real-time 3D Interaction with Depth Maps for Mobile AR
+- [Wiki : True-range multilateration](https://en.wikipedia.org/wiki/True-range_multilateration)
+- [Source : trilateration-in-3d](https://github.com/akshayb6/trilateration-in-3d)
 
