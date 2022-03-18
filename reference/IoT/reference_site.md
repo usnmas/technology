@@ -40,6 +40,7 @@
 - [HAILO](https://hailo.ai/) : ADAS / AI Processor for Edge Device    
 - [VENIAM](https://veniam.com/) : ADAS / C-V2X with Cloud Storage & Public Wi-Fi  
 - [Navigine](https://navigine.com/) : IPS Engine Dev. Open source API  
+- [Pointr](https://www.pointr.tech/) : BLE based IPS / Seamless GPS-IPS / Multi-Floor Positioning 
 
 ## Organization (Domestic)  
 
