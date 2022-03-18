@@ -47,3 +47,14 @@
 - Babylon.js 
   - [Introducing the Babylon.js GUI Editor (Alpha)](https://babylonjs.medium.com/introducing-the-babylon-js-gui-editor-alpha-89dc6a6461d8) 
   - [Babylon.js GUI Editor](https://gui.babylonjs.com/)
+
+## Detection and Measurement 
+
+- [ARCore Overview](https://developers.google.com/ar/develop) 
+- [ARCore Hit-test](https://developers.google.com/ar/develop/hit-test)
+- [Wiki : Hit-testing](https://en.wikipedia.org/wiki/Hit-testing) : w/pseudo-code
+- [ARCore / Working with Anchors](https://developers.google.com/ar/develop/anchors)
+- [Google Developers Codelabs (AR)](https://codelabs.developers.google.com/?category=ar)
+- [Google Developers Codelabs / Use the ARCore Depth API for immersive augmented reality experiences](https://codelabs.developers.google.com/codelabs/arcore-depth?hl=en#0)
+- [DepthLAB](https://augmentedperception.github.io/depthlab/) : Real-time 3D Interaction with Depth Maps for Mobile AR
+
