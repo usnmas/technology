@@ -17,6 +17,8 @@
 
 - [VIRNECT](https://www.virnect.com) : Industrial AR/DT / BIM / OPC UA / Digital Twin  
 - [AiiT One](http://www.aiitone.com/) : (old : SOLTWORKS. KOSTAQ) Military Simulation / Metaverse
+- [MAXST](https://www.maxst.com/) : AR / SLAM
+- [PLUXITY](https://www.pluxity.com/) : Digital Twin (3D) Management
 
 ## Technical References  
 
