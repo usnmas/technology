@@ -50,4 +50,8 @@
 ## Git
 - [git/github](https://blog.naver.com/nicholasdw/222290803114) : Basic Usage  
 
-
+## CFD (Computational Fluid Dynamics)
+- [A Hands-on Introduction to Engineering Simulations](https://www.edx.org/course/a-hands-on-introduction-to-engineering-simulations?index=product&queryID=f53f5a11c222c59970e9b94b3a1eff3c&position=1) : edX CFD course provided by Cornell Univ. about Ansys 
+- [Upskill with IES](https://www.iesve.com/training/upskill-with-ies) : IES Training Webinar
+- [CFD of a Hospital Operating Room](https://learn-on-demand.iesve.com/courses/1228359/lectures/27398658) : IES Webinar
+- [Simulating Ventilation Strategies to Reduce Risks of Indoor Infectious Disease Transmission](https://www.iesve.com/discoveries/article/11421/ventilation-to-reduce-indoor-disease-transmission) : IES Article  
