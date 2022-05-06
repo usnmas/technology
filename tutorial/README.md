@@ -66,5 +66,6 @@
 - [Nabla symbol](https://en.wikipedia.org/wiki/Nabla_symbol)  
 - [Blob detection](https://en.wikipedia.org/wiki/Blob_detection) : detecting regions in a digital image that differ in properties, such as brightness or color  
 - [SIFT](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) : Scale-invariant feature transform  
-- [SIFT 의 원리](https://bskyvision.com/21)  
+- [SIFT 원리](https://bskyvision.com/21)  
+- [SIFT 정리](https://salkuma.files.wordpress.com/2014/04/sifteca095eba6ac.pdf)  
 
