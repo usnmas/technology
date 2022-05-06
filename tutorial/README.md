@@ -55,3 +55,16 @@
 - [Upskill with IES](https://www.iesve.com/training/upskill-with-ies) : IES Training Webinar
 - [CFD of a Hospital Operating Room](https://learn-on-demand.iesve.com/courses/1228359/lectures/27398658) : IES Webinar
 - [Simulating Ventilation Strategies to Reduce Risks of Indoor Infectious Disease Transmission](https://www.iesve.com/discoveries/article/11421/ventilation-to-reduce-indoor-disease-transmission) : IES Article  
+
+## Mathematics
+- [Differential equation](https://en.wikipedia.org/wiki/Differential_equation) : ODE (Ordinary)  
+- [Partial differential equation](https://en.wikipedia.org/wiki/Partial_differential_equation)  
+- [Partial Differential Equations (PDEs)](https://uwaterloo.ca/applied-mathematics/future-undergraduates/what-you-can-learn-applied-mathematics/differential-equations/partial-differential-equations-pdes) 
+- [Partial Derivative (11 of 30) An Alternative Notation](https://youtu.be/gGTipvy1lPU)     
+- [∂](https://en.wikipedia.org/wiki/%E2%88%82) : The symbol ∂ indicates a partial derivative, and is used when differentiating a function of two or more variables, u = u(x,t). For example means differentiate u(x,t) with respect to t, treating x as a constant. Read "partial derivative of u with respect to t."  
+- [Greek letters used in mathematics, science, and engineering](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering)  
+- [Nabla symbol](https://en.wikipedia.org/wiki/Nabla_symbol)  
+- [Blob detection](https://en.wikipedia.org/wiki/Blob_detection) : detecting regions in a digital image that differ in properties, such as brightness or color  
+- [SIFT](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) : Scale-invariant feature transform  
+- [SIFT 의 원리](https://bskyvision.com/21)  
+
