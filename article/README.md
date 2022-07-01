@@ -18,12 +18,14 @@
 
 - [사토시도 몰랐던 비트코인 '에러버스' 공격, 대책 필요하다](https://dstreet.io/news/view-detail?id=N20200715101226593027)
 
+## Cryptocurrency / Token
+
 > DeFi  
 
 - [What Is Yield Farming?](https://www.coindesk.com/defi-yield-farming-comp-token-explained?amp=1)  
 - [DeFi / Yield Farming / Staking / APR / APY](https://blog.naver.com/mcn_letter01/222756385420)  
 
-## Cryptocurrency / Token
+> Market Trend 
 
 - [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969)
 
