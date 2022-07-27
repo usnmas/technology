@@ -32,6 +32,7 @@
 > Market Trend 
 
 - [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969)
+- [2022 thebell 블록체인 Forum : NFT와 메타버스 생태계의 지속 가능성 (SKT 진출방향) (2022.07)](https://youtu.be/T3W3j1zZnTE)  
 
 ## Internet of Things 
 
