@@ -33,6 +33,9 @@
 
 - [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969)
 - [2022 thebell 블록체인 Forum : NFT와 메타버스 생태계의 지속 가능성 (SKT 진출방향) (2022.07)](https://youtu.be/T3W3j1zZnTE)  
+- [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969) : Algorand (ALGO) / Tron (TRX) / Cardano (ADA)
+- [Top 3 Crypto to Buy for High Return in future (2022.07)](https://medium.com/coinmonks/top-3-crypto-to-buy-for-high-return-in-future-1204688b47d7) : The Sandbox (SAND) / Polygon (MATIC) / Decentraland (LAND)
+- [Solana (SOL) Price Prediction 2022 (2022.07)](https://medium.com/coinmonks/solana-sol-price-prediction-2022-update-28th-of-july-53b2e7bd99ce)
 
 ## METAVERSE
 
