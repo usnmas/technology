@@ -17,6 +17,7 @@
 > Performance
 
 - [What is the difference between blockchain performance and blockchain scalability?](https://stackoverflow.com/questions/61753740/what-is-the-difference-between-blockchain-performance-and-blockchain-scalability/62250295?fbclid=IwAR10pnr1na6fBv0Ts3mT0TWCGKRw7PW5mngBBm7cfjjhXlqIxPGhXWe-00U#62250295) : [Stack Overflow] Differences between performance and scalability are clear, but in this article, wider viewpoint was used. 
+- [This Open Source Blockchain Fixes Ethereum’s Problems](https://medium.com/coinmonks/this-open-source-blockchain-fixes-ethereums-problems-c4a0fed41e63) : Polkadot
 
 > Security  
 
@@ -31,7 +32,6 @@
 
 > Market Trend 
 
-- [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969)
 - [2022 thebell 블록체인 Forum : NFT와 메타버스 생태계의 지속 가능성 (SKT 진출방향) (2022.07)](https://youtu.be/T3W3j1zZnTE)  
 - [Top 3 Cheap Cryptocurrencies that you must have in your portfolio (2022.06)](https://medium.com/coinmonks/top-3-cheap-cryptocurrencies-that-you-must-have-in-your-portfolio-8e5334ce1969) : Algorand (ALGO) / Tron (TRX) / Cardano (ADA)
 - [Top 3 Crypto to Buy for High Return in future (2022.07)](https://medium.com/coinmonks/top-3-crypto-to-buy-for-high-return-in-future-1204688b47d7) : The Sandbox (SAND) / Polygon (MATIC) / Decentraland (LAND)
