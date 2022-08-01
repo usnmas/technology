@@ -10,6 +10,10 @@
 
 ## Blockchain
 
+> Concept
+
+- [Could a DAO build the next great city? (2022)](https://www.ted.com/talks/scott_fitsimones_could_a_dao_build_the_next_great_city?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+
 > Architecture / Web 3.0
 
 - [:dart: Web3 Architecture and Tech Stack : A Beginners Guide](https://medium.com/toruslabs/a-beginners-guide-the-basic-web3-architecture-and-tech-stack-81f2061d263c)
