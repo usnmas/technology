@@ -45,7 +45,7 @@
 
 - [메타버스 적용사례 총정리 (2021.06)](https://youtu.be/fJ-Lu1p2YPE)
 - [The Metaverse Value-Chain (2021.04)](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
-- [Market Map of the Metaverse(2021.04](https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696)
+- [Market Map of the Metaverse(2021.04)](https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696)
   
 ## Internet of Things 
 
