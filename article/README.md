@@ -43,7 +43,7 @@
 
 > NFT
 
-- [NFT Overview (by Hyundai Card Dive Post](https://dive.hyundaicard.com/web/post/post.hdc)
+- [NFT Overview (by Hyundai Card Dive Post)(2022)](https://dive.hyundaicard.com/web/post/post.hdc)
 
 ## METAVERSE
 
