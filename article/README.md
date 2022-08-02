@@ -41,6 +41,10 @@
 - [Top 3 Crypto to Buy for High Return in future (2022.07)](https://medium.com/coinmonks/top-3-crypto-to-buy-for-high-return-in-future-1204688b47d7) : The Sandbox (SAND) / Polygon (MATIC) / Decentraland (LAND)
 - [Solana (SOL) Price Prediction 2022 (2022.07)](https://medium.com/coinmonks/solana-sol-price-prediction-2022-update-28th-of-july-53b2e7bd99ce)
 
+> NFT
+
+- [NFT Overview (by Hyundai Card Dive Post](https://dive.hyundaicard.com/web/post/post.hdc)
+
 ## METAVERSE
 
 - [메타버스 적용사례 총정리 (2021.06)](https://youtu.be/fJ-Lu1p2YPE)
