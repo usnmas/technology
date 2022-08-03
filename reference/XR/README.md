@@ -12,6 +12,7 @@
 - [Clara.io](https://clara.io/) : Cloud-based 3D Modeling    
 - [GroupRoom](https://www.grouproom.io/) : Metaverse Meeting Room 
 - [8th Wall](https://www.8thwall.com/) : SLAM (Simultaneous Localization and Mapping) Engine
+- [Enovis Corporation’s subsidiary, DJO Global](https://www.djoglobal.com/) : Orthopedic Tech. ARVIS (AR Visualization & Information System)
 
 ## Organization (Domestic)
 
