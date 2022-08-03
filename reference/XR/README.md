@@ -19,6 +19,7 @@
 - [AiiT One](http://www.aiitone.com/) : (old : SOLTWORKS. KOSTAQ) Military Simulation / Metaverse
 - [MAXST](https://www.maxst.com/) : AR / SLAM
 - [PLUXITY](https://www.pluxity.com/) : Digital Twin (3D) Management
+- [Medical IP](https://medicalip.com/) : AR / Metaverse in Healthcare
 
 ## Technical References  
 
