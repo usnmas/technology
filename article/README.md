@@ -33,6 +33,8 @@
 
 - [What Is Yield Farming?](https://www.coindesk.com/defi-yield-farming-comp-token-explained?amp=1)  
 - [DeFi / Yield Farming / Staking / APR / APY](https://blog.naver.com/mcn_letter01/222756385420)  
+- [폰지사기](https://blog.naver.com/alcmskfl17/222743622775) : 폰지사기 / 머지포인트 / 테라코인
+- [루나코인 폭락](https://blog.naver.com/alcmskfl17/222730490093)  
 
 > Market Trend 
 
