@@ -89,4 +89,7 @@
 ## Enterpreneurship
 
 - [영리법인과 비영리법인의 구분기준](https://blog.naver.com/attorney0070/221672746741)  
+- [개인사업자의 법인전환](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=632&ccfNo=3&cciNo=1&cnpClsNo=2&search_put=%EB%B2%95%EC%9D%B8)
+- [비영리 사단법인](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=83&ccfNo=1&cciNo=1&cnpClsNo=1) : 법인종류. 사단법인 설립 절차 
+
 
