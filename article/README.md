@@ -85,3 +85,8 @@
 
 - [An Example of an IT Strategic Plan](https://www.resolutets.com/it-strategy-plan-example/)
 - [How to Develop a Business IT Strategy](https://www.resolutets.com/it-business-strategy/)
+
+## Enterpreneurship
+
+- [영리법인과 비영리법인의 구분기준](https://blog.naver.com/attorney0070/221672746741)  
+
