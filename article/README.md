@@ -50,6 +50,7 @@
 
 ## METAVERSE
 
+- [메타버스 X, Metaverse of Everything (2022.06)](https://www.cadgraphics.co.kr/newsview.php?pages=news&sub=news01&catecode=2&num=70981)
 - [메타버스 적용사례 총정리 (2021.06)](https://youtu.be/fJ-Lu1p2YPE)
 - [[2020년 신흥시장오픈포럼] 메타버스와 블록체인게임의 만남, 시너지 효과는? | 더 샌드박스 이요한 한국총괄매니저 (2020.12)](https://youtu.be/xHmVRLo1nzs)
 - Metaverse Features Analysis
