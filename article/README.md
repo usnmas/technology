@@ -82,6 +82,11 @@
 - [What is React Native & How it is used in Mobile App Development?](https://www.zenesys.com/blog/reactnative-uses-in-mobile-app-development)  
 - [Difference between React JS and React Native](https://www.zenesys.com/blog/difference-between-reactjs-and-react-native)  
 
+## Computing (General)
+
+- [What’s the Difference Between a CPU and a GPU?](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/)
+- [What Is CUDA?](https://blogs.nvidia.com/blog/2012/09/10/what-is-cuda-2/)
+
 ## IT Strategy Planning
 
 - [An Example of an IT Strategic Plan](https://www.resolutets.com/it-strategy-plan-example/)
