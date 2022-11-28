@@ -50,6 +50,9 @@
 ## Metaverse
 - [Roblox Development](https://m.post.naver.com/viewer/postView.naver?volumeNo=31685157&memberNo=6255089)  
 
+## NFT
+- [NFT101](https://post.naver.com/my/series/detail.naver?seriesNo=676735&memberNo=15388801&prevVolumeNo=33552859) : NFT / OpenSea 101 블로그
+
 ## Git
 - [git/github](https://blog.naver.com/nicholasdw/222290803114) : Basic Usage  
 
