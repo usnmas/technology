@@ -44,6 +44,10 @@
 - [Solana (SOL) Price Prediction 2022 (2022.07)](https://medium.com/coinmonks/solana-sol-price-prediction-2022-update-28th-of-july-53b2e7bd99ce)
 - [Top 5 Crypto Coin With Massive Potential (2022.08)](https://medium.com/coinmonks/top-5-crypto-coin-with-massive-potential-f51e77a88308) : Uniswap (UNI) / Chainlink (LINK) / Decentraland (MANA) / Cardano (ADA) / Ripple (XRP) 
 
+> Token
+
+- [What is wrapped Ethereum (wETH) and how does it work?](https://cointelegraph.com/news/what-is-wrapped-ethereum-weth-and-how-does-it-work)
+
 > NFT
 
 - [NFT Overview (2022. by Hyundai Card Dive Post)](https://dive.hyundaicard.com/web/post/post.hdc)
