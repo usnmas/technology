@@ -33,6 +33,8 @@
 
 - [What Is Yield Farming?](https://www.coindesk.com/defi-yield-farming-comp-token-explained?amp=1)  
 - [DeFi / Yield Farming / Staking / APR / APY](https://blog.naver.com/mcn_letter01/222756385420)  
+- [Binance DeFi Staking](https://blog.naver.com/wjdgks5306/222674747502)
+- [Binance Deposit & Withdraw](https://metaversenews.co.kr/%EB%B0%94%EC%9D%B4%EB%82%B8%EC%8A%A4-%EC%9E%85%EA%B8%88-%EC%B6%9C%EA%B8%88-%EB%B0%A9%EB%B2%95/)
 - [폰지사기](https://blog.naver.com/alcmskfl17/222743622775) : 폰지사기 / 머지포인트 / 테라코인
 - [루나코인 폭락](https://blog.naver.com/alcmskfl17/222730490093)  
 
